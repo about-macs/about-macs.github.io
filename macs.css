@@ -1,0 +1,24 @@
+            body {
+                background-color : rgb(230,230,230); 
+            }
+            #main {
+                font-family: monospace;   
+            }
+            #imag {
+                left: 100px;
+            }
+            #st-cl {
+                background-color : rgb(255,255,255);
+            }
+            .table, .text, p {
+                font-family: sans-serif  
+            }
+            .img-info {
+                font-family: monospace;
+            }
+            .image {
+            width: 220px;
+            margin-right: 10px;
+            margin-bottom: 10px;
+            border: 10px;
+        }
